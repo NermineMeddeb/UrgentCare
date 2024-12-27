@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666906561458",
+    "project_id": "urgentcare-gps",
+    "storage_bucket": "urgentcare-gps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666906561458:android:bd17b5f22389f01ce932ab",
+        "android_client_info": {
+          "package_name": "com.example.urgentcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbsp70ZkIt0-OZ90wYi1HwAfhRH2Jj8QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666906561458:android:64a0befe8638edd6e932ab",
+        "android_client_info": {
+          "package_name": "com.example.urgentcaregps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbsp70ZkIt0-OZ90wYi1HwAfhRH2Jj8QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
